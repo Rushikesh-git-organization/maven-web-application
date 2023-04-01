@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.2.77:2821/reyansh/repository/sbi-release/</url>
+	      <url>http://172.31.27.67:8000/reyansh/repository/yesbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.2.77:2821/reyansh/repository/sbi-snapshot/</url>
+	      <url>http://172.31.27.67:8000/reyansh/repository/yesbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
